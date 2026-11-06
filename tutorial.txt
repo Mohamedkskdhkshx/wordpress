@@ -1,0 +1,3 @@
+wordpress is  CMS platform , cms platform is content managment syatem  --> is software application we used it to create website 
+without write code this is CMS platform
+
