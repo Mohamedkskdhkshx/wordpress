@@ -1,3 +1,7 @@
 wordpress is  CMS platform , cms platform is content managment syatem  --> is software application we used it to create website 
 without write code this is CMS platform
 
+wix is example of cms platform too but wordpress is the best for now 
+
+wordpress have two websites wordpress.com and wordpress.org  the diff is wordpress.com gives you the hosting but 
+wordpress.org you need to buy domain and user external hosting for your application 
